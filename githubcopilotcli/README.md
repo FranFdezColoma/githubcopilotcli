@@ -1,11 +1,11 @@
-# Capgemini — Plugin Marketplace
+# Plugin Marketplace
 
 > Colección de plugins para **GitHub Copilot CLI** organizados por área tecnológica. Instala el plugin de tu stack y empieza a trabajar con agentes y skills especializados desde el primer día.
 
 
 ## ¿Qué es esto?
 
-Un **marketplace de plugins** desarrollado por Capgemini que extiende las capacidades de GitHub Copilot CLI con agentes, skills e instrucciones especializadas para cada stack tecnológico.
+Un **marketplace de plugins** desarrollado por Francisco Antonio Fernandez Coloma que extiende las capacidades de GitHub Copilot CLI con agentes, skills e instrucciones especializadas para cada stack tecnológico.
 
 Cada plugin agrupa en una sola unidad instalable:
 - 🤖 **Custom Agents** con roles definidos (arquitecto, desarrollador, documentador...)
