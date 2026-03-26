@@ -1,6 +1,12 @@
-# Cupgemini — Plugin Marketplace
-
+# Github Copilot CLI — Plugin Marketplace
 > Colección de plugins para **GitHub Copilot CLI** organizados por área tecnológica. Instala el plugin de tu stack y empieza a trabajar con agentes y skills especializados desde el primer día.
+## ¿Nuevo en GitHub Copilot CLI?
+
+Si es tu primera vez usando **Github Copilot CLI**, empieza por la guía de developers:
+
+**[📖 Guía de Developers →](guia-developers/README.md)**
+
+La guía cubre desde la instalación hasta la configuración de **Instructions, Skills, Agents, MCP servers**, con ejemplos reales para cada concepto.
 
 
 ## ¿Qué es esto?
@@ -39,15 +45,6 @@ copilot
 # 3. Verificar
 > /plugin list
 ```
-
-## ¿Nuevo en GitHub Copilot CLI?
-
-Si es tu primera vez usando el CLI como agente autónomo, empieza por la guía de developers:
-
-**[📖 Guía de Developers →](guia-developers/README.md)**
-
-La guía cubre desde la instalación hasta la configuración de MCP servers, con ejemplos reales para cada concepto.
-
 
 ## Contribuir
 
