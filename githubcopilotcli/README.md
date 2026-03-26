@@ -1,11 +1,11 @@
-# Plugin Marketplace
+# Cupgemini — Plugin Marketplace
 
 > Colección de plugins para **GitHub Copilot CLI** organizados por área tecnológica. Instala el plugin de tu stack y empieza a trabajar con agentes y skills especializados desde el primer día.
 
 
 ## ¿Qué es esto?
 
-Un **marketplace de plugins** desarrollado por Francisco Antonio Fernandez Coloma que extiende las capacidades de GitHub Copilot CLI con agentes, skills e instrucciones especializadas para cada stack tecnológico.
+Un **marketplace de plugins** desarrollado por Cupgemini que extiende las capacidades de GitHub Copilot CLI con agentes, skills e instrucciones especializadas para cada stack tecnológico.
 
 Cada plugin agrupa en una sola unidad instalable:
 - 🤖 **Custom Agents** con roles definidos (arquitecto, desarrollador, documentador...)
@@ -31,10 +31,10 @@ Un plugin instalado una vez está disponible en GitHub Copilot CLI y en VS Code 
 ```bash
 # 1. Registrar el marketplace
 copilot
-> /plugin marketplace add FranFdezColoma/capgemini-marketplace
+> /plugin marketplace add FranFdezColoma/Cupgemini-marketplace
 
 # 2. Instalar el plugin de tu stack
-> /plugin install power-platform-dataverse@capgemini-marketplace
+> /plugin install power-platform-dataverse@Cupgemini-marketplace
 
 # 3. Verificar
 > /plugin list
@@ -74,4 +74,4 @@ plugins/mi-stack/
 
 ## Licencia
 
-MIT License — Capgemini
+MIT License — Cupgemini
