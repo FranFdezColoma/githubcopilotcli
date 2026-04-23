@@ -1,0 +1,21 @@
+{
+  "name": "marketplace-v2",
+  "owner": {
+    "name": "Francisco Fernandez Coloma",
+    "url": "https://github.com/FranFdezColoma/githubcopilotcli"
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Marketplace for Dynamics 365 Customer Engagement and Power Platform development plugins with specialized agents and skills."
+  },
+  "plugins": [
+    {
+      "name": "dynamics365-powerplatform-v2",
+      "description": "Comprehensive plugin for Dynamics 365 CE and Power Platform development with specialized agents (Solution Architect, Developer, Documenter) and skills (arc42, code-review, custom-api-builder, doc-generator, flow-builder, jira-issue-creator, pcf-builder, plugin-builder, unit-test-builder).",
+      "source": "./plugins/dynamics365-powerplatform",
+      "version": "1.0.0",
+      "category": "development",
+      "keywords": ["dynamics365", "power-platform", "dataverse", "azure", "crm", "plugins", "pcf", "custom-api", "power-automate"]
+    }
+  ]
+}
